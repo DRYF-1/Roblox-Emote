@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 34994,
-  "lastUpdate": "2026-02-23T19:52:43.808Z",
+  "totalItems": 34995,
+  "lastUpdate": "2026-02-23T20:35:17.823Z",
   "data": [
     {
       "id": 3360689775,
@@ -139978,6 +139978,10 @@
     {
       "id": 72594018128577,
       "name": "RUDE! - Hearts2Hearts"
+    },
+    {
+      "id": 128450189165169,
+      "name": "levitating / floating emote"
     }
   ]
 }
