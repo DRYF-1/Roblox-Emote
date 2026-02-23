@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 34995,
-  "lastUpdate": "2026-02-23T20:35:17.823Z",
+  "totalItems": 35003,
+  "lastUpdate": "2026-02-23T21:35:54.499Z",
   "data": [
     {
       "id": 3360689775,
@@ -139982,6 +139982,38 @@
     {
       "id": 128450189165169,
       "name": "levitating / floating emote"
+    },
+    {
+      "id": 120674455567362,
+      "name": "Needy Circle Shake (OG)"
+    },
+    {
+      "id": 131408247555261,
+      "name": "♡ cute girly pondering idle pose"
+    },
+    {
+      "id": 79077664895558,
+      "name": "♡ Nervous Idle Pose ♡"
+    },
+    {
+      "id": 89511494590093,
+      "name": "Split Strike 💥"
+    },
+    {
+      "id": 118303785230594,
+      "name": "Popular Emote"
+    },
+    {
+      "id": 117969552514299,
+      "name": "🇹🇷 Turkish Hand Dance Emote 🇹🇷"
+    },
+    {
+      "id": 89741635949788,
+      "name": "Idk What She Saying (Lil Uzi Dance)"
+    },
+    {
+      "id": 121286066485834,
+      "name": "🏈🔥 NUEVAYoL - Bad Bunny"
     }
   ]
 }
