@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 36428,
-  "lastUpdate": "2026-03-06T07:33:40.924Z",
+  "totalItems": 36432,
+  "lastUpdate": "2026-03-06T08:26:55.050Z",
   "data": [
     {
       "id": 3360689775,
@@ -145714,6 +145714,22 @@
     {
       "id": 105974210115048,
       "name": "I See Kareem Groove"
+    },
+    {
+      "id": 81157473944722,
+      "name": "Arms Crossed Floating"
+    },
+    {
+      "id": 76030833516893,
+      "name": "Cursed Dancing Croissant Emote"
+    },
+    {
+      "id": 109298842928769,
+      "name": "Akiba Red Pose"
+    },
+    {
+      "id": 87825984257994,
+      "name": "Stateside Dance"
     }
   ]
 }
