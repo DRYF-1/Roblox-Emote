@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 36597,
-  "lastUpdate": "2026-03-07T09:20:48.192Z",
+  "totalItems": 36599,
+  "lastUpdate": "2026-03-07T10:15:22.322Z",
   "data": [
     {
       "id": 3360689775,
@@ -146390,6 +146390,14 @@
     {
       "id": 118623256643993,
       "name": "float piggy back ride (female)"
+    },
+    {
+      "id": 87479215956157,
+      "name": "✨Fairy Aura Pose"
+    },
+    {
+      "id": 83605345742332,
+      "name": "Serious Aura Idle"
     }
   ]
 }
