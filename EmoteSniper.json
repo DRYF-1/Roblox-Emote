@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 37342,
-  "lastUpdate": "2026-03-13T17:28:20.894Z",
+  "totalItems": 37347,
+  "lastUpdate": "2026-03-13T18:29:35.082Z",
   "data": [
     {
       "id": 3360689775,
@@ -149370,6 +149370,26 @@
     {
       "id": 95410756192927,
       "name": "strong"
+    },
+    {
+      "id": 103194209831784,
+      "name": "Nyan nyan <3"
+    },
+    {
+      "id": 111231750028642,
+      "name": "Fancy Feet"
+    },
+    {
+      "id": 104176053901925,
+      "name": "Cupid Emote (Fifty Fifty)"
+    },
+    {
+      "id": 71611152753580,
+      "name": "⏳[LIMITED] Cute Sit"
+    },
+    {
+      "id": 71794007021464,
+      "name": "Dababy BOP Dance Emote [🎶]"
     }
   ]
 }
