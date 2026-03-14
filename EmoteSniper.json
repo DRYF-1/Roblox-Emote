@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 37500,
-  "lastUpdate": "2026-03-14T21:18:59.609Z",
+  "totalItems": 37502,
+  "lastUpdate": "2026-03-14T22:17:12.102Z",
   "data": [
     {
       "id": 3360689775,
@@ -150002,6 +150002,14 @@
     {
       "id": 71827861557555,
       "name": "NLE CHOPPA'S SIGNATURE DANCE"
+    },
+    {
+      "id": 73124272613690,
+      "name": "Astral Float"
+    },
+    {
+      "id": 84593953606631,
+      "name": "Sleeping floating emote"
     }
   ]
 }
