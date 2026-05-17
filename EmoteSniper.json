@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 45524,
-  "lastUpdate": "2026-05-17T21:45:14.394Z",
+  "totalItems": 45526,
+  "lastUpdate": "2026-05-17T22:43:24.154Z",
   "data": [
     {
       "id": 3360689775,
@@ -182098,6 +182098,14 @@
     {
       "id": 88766089810838,
       "name": "Cute Side Looking Matching Emote [Right] ♡︎"
+    },
+    {
+      "id": 124608339410852,
+      "name": "Goofy Flapping Emote"
+    },
+    {
+      "id": 114561444185051,
+      "name": "Backfold"
     }
   ]
 }
