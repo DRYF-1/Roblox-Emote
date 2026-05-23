@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 46219,
-  "lastUpdate": "2026-05-23T22:43:01.711Z",
+  "totalItems": 46221,
+  "lastUpdate": "2026-05-23T23:48:00.650Z",
   "data": [
     {
       "id": 3360689775,
@@ -184878,6 +184878,14 @@
     {
       "id": 140199290620397,
       "name": "♡ sweet cute hug emote"
+    },
+    {
+      "id": 138611993364387,
+      "name": "𖹭 ꒰ shy paw pose ꒱"
+    },
+    {
+      "id": 77363115375601,
+      "name": "Do the Dance - ILLIT [DANCEBREAK]"
     }
   ]
 }
