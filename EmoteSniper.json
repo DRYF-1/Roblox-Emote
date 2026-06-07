@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 47973,
-  "lastUpdate": "2026-06-07T21:00:18.714Z",
+  "totalItems": 47976,
+  "lastUpdate": "2026-06-07T22:05:02.389Z",
   "data": [
     {
       "id": 3360689775,
@@ -191894,6 +191894,18 @@
     {
       "id": 101854949802756,
       "name": "Head Pat Hair Head Scratches"
+    },
+    {
+      "id": 126202606493913,
+      "name": "Cute Kneeling Static Pose"
+    },
+    {
+      "id": 88363647483612,
+      "name": "Spice MainCharacter"
+    },
+    {
+      "id": 94892483748973,
+      "name": "Spice TempoSwitch"
     }
   ]
 }
