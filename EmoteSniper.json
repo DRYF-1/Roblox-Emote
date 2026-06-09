@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 48145,
-  "lastUpdate": "2026-06-09T16:25:10.411Z",
+  "totalItems": 48146,
+  "lastUpdate": "2026-06-09T19:07:15.034Z",
   "data": [
     {
       "id": 3360689775,
@@ -192582,6 +192582,10 @@
     {
       "id": 130493859564300,
       "name": "Shining Kawaii Cutesy Heart Dance"
+    },
+    {
+      "id": 96853318026158,
+      "name": "Hook Kick"
     }
   ]
 }
