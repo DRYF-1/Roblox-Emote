@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 54684,
-  "lastUpdate": "2026-08-08T21:20:21.958Z",
+  "totalItems": 54685,
+  "lastUpdate": "2026-08-08T22:17:58.483Z",
   "data": [
     {
       "id": 3360689775,
@@ -218738,6 +218738,10 @@
     {
       "id": 138480336918274,
       "name": "Levitation Aura Farming[NEW]"
+    },
+    {
+      "id": 75277547115589,
+      "name": "Itchy💨"
     }
   ]
 }
