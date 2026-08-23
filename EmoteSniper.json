@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 56447,
-  "lastUpdate": "2026-08-23T18:14:35.304Z",
+  "totalItems": 56449,
+  "lastUpdate": "2026-08-23T19:15:18.950Z",
   "data": [
     {
       "id": 3360689775,
@@ -225790,6 +225790,14 @@
     {
       "id": 94332465740739,
       "name": "[BEST] got that feeling"
+    },
+    {
+      "id": 114029878123643,
+      "name": "Take the L Emote"
+    },
+    {
+      "id": 135438920202496,
+      "name": "AURA BATTLE JUMP"
     }
   ]
 }
